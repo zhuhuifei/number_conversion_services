@@ -1,0 +1,15 @@
+{
+    "name": "zhuhuifei/number_conversion_services",
+    "type": "1",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhuhuifei",
+            "email": "cornsking@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
